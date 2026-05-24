@@ -6,7 +6,7 @@ Customer Churn Prediction using Machine Learning
 
 ## Author(s)
 
-Suhani Bode
+Shraddha Bankar
 
 ## Affiliation
 
